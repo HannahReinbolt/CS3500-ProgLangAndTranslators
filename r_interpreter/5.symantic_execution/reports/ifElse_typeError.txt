@@ -1,0 +1,4 @@
+"BoJack""This should produce an error!"			      |	"BoJack"
+---- Completed parsing ----				      |	Line 3: Arg 1 must be integer or float or bool
+							      <
+Value of the expression is: "This should produce an error!"   <

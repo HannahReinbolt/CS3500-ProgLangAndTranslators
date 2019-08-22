@@ -1,0 +1,4 @@
+"This is going to wait for you to enter something""Enter a string to see if it detects an error""You should not be seeing this if you entered a string!"
+---- Completed parsing ----
+
+Value of the expression is: "You should not be seeing this if you entered a string!"

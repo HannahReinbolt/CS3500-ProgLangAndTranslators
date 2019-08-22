@@ -1,0 +1,4 @@
+							      |	Line 4: Subscript out of bounds
+---- Completed parsing ----				      <
+							      <
+Value of the expression is: 				      <
